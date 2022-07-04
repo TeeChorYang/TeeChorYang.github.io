@@ -4,6 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+document.addEventListener("DOMContentLoaded", function(event) { 
 (function() {
   "use strict";
 
@@ -294,3 +295,4 @@
   });
 
 })()
+});
