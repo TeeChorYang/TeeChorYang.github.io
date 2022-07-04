@@ -7,4 +7,3 @@ License: https://bootstrapmade.com/license/
 
 
 
- <a href="#" class="https://www.facebook.com/tee.choryang/"><i class="bx bxl-facebook"></i></a>
